@@ -1,4 +1,4 @@
-# Don't try to rename anything, This piai is modded by SUFYAAN if you rename anything probabily this code isn't run.
+# Don't try to rename anything, This pi.ai is mod by SUFYAAN if you rename anything probabily this code isn't run.
 from time import sleep
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
