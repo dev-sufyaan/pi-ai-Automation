@@ -9,8 +9,11 @@ pip install keyboard==0.13.5
 pip install pyautogui==0.9.54
 
 
+<<<<<<< HEAD
 
 
 
 
 Give Credit
+=======
+>>>>>>> b2c30b2cbb45b60da0a6af7e6851972d42392399
